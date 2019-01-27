@@ -1,6 +1,9 @@
 # vote
+
 tihs is a vote project
-##数据库表相关的设计
+
+## 数据库表相关的设计
+
 /*
 Navicat MySQL Data Transfer
 
